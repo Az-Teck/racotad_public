@@ -12,7 +12,7 @@ Regular updates will be made to the public repository
 ## 🚀 Stack technique
 
 ### 🧠 Backend — NestJS
-- **Framework** : NestJS 11 (TypeScript)
+- **Framework** : NestJS (TypeScript)
 - **ORM** : TypeORM  
 - **Base de données** : PostgreSQL (via Supabase)
 - **Authentification** : JWT + Guards + Validators
